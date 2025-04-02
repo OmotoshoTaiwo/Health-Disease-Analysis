@@ -36,6 +36,7 @@ It includes patient demographics, health status, disease type, and reported outc
 ## Author  
 **Omotosho Taiwo Segun**  
 - [LinkedIn](http://www.linkedin.com/in/taiwo-omotosho-data-analytics)  
-- [Email](mailto:omotoshootaiwo@gmail.com)  
+- [Email](mailto:omotoshootaiwo@gmail.com)
+- [Phone Number](+2348109920199)
 
 
